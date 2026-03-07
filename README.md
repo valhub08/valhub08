@@ -42,7 +42,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=valhub08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF"/>
