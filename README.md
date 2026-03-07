@@ -44,18 +44,16 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/valhub08">
-  <img src="https://github-readme-stats.vercel.app/api?username=valhub08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="170"/>
-</a>
-<a href="https://github.com/valhub08">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valhub08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=valhub08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF"/>
 </a>
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=valhub08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valhub08&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valhub08&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valhub08&theme=tokyonight&utcOffset=9" height="170"/>
 
 </div>
 
@@ -63,7 +61,7 @@
 
 <div align="center">
 
-<a href="https://github.com/valhub08"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvalhub08&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
+![](https://komarev.com/ghpvc/?username=valhub08&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
