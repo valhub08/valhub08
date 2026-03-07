@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🛠 Tech Stacks
+### Tech Stacks
 
 **Languages**
 
